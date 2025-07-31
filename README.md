@@ -18,6 +18,7 @@ Tech Education Analyst at DIO, a postgrad in Software Development with Agile Met
 ##
 
 ### 🎬 Latest Video
+- [🇧🇷 Primeiros Passos com SQL e Modelagem de Banco de Dados](https://www.youtube.com/watch?v=fSaY_rvHs_M)
 - [🇧🇷 Escrevendo uma Aplicação Utilizando o GitHub Copilot na Prática](https://www.youtube.com/watch?v=jecdgYlKOIQ)
   
 ##
