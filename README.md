@@ -1,31 +1,37 @@
 <h2>
-	<span>Hello! I'm Eli 🫰</span>
-	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/elidianaandrade">
-	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/elidianaandrade?style=social">
+  <span>Olá! Eu sou o Chae 🫰</span>
+  <img align="right" alt="Stars" src="https://img.shields.io/github/stars/chaejiin">
+  <img align="right" alt="Followers" src="https://img.shields.io/github/followers/chaejiin?style=social">
 </h2>
 
-Tech Education Analyst at DIO, a postgrad in Software Development with Agile Methodology, and a content creator who loves sharing what I learn along the way.
+---
 
-### Certifications
-![AWS CLF-C02](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-fff?style=flat&logo=amazonwebservices&logoColor=FFFFFF&labelColor=1e1c28)
-![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations%20Certification-fff?style=flat&logo=github&logoColor=FFFFFF&labelColor=1e1c28)
+### 📸 Sobre mim
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/in/elidiana-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/elidiana/)
-[![Instagram](https://img.shields.io/badge/@elicosmaker-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/elicosmaker/)
-[![YouTube](https://img.shields.io/badge/@casalfullstack-fff?style=flat&logo=youtube&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.youtube.com/@casalfullstack)
+Oi, eu sou o **Chae** ✨  
+Profissional **gênero fluido** (meus pronomes são *ele/dele*).  
+Sou **desenvolvedor front-end**, **indie dev de games 2D** (me encontra no [itch.io](https://itch.io/profile/chaejiin)), e **redator publicitário**.  
 
-##
+Amo **literatura brasileira** e autores independentes 📚.  
+Atualmente, trabalho na **Black&CO**, escrevendo sobre **games, livros, tecnologia e eventos**.  
+Estou aprendendo **C#**, **HTML**, **CSS** e **JavaScript**.  
 
-### 🎬 Latest Video
-- [🇧🇷 Primeiros Passos com SQL e Modelagem de Banco de Dados](https://www.youtube.com/watch?v=fSaY_rvHs_M)
-- [🇧🇷 Escrevendo uma Aplicação Utilizando o GitHub Copilot na Prática](https://www.youtube.com/watch?v=jecdgYlKOIQ)
-  
-##
+---
 
-### 📔 Free Study Material
-- [🇧🇷 Jornada Gamificada de Git e GitHub](https://elidianaandrade.gitbook.io/learning-quest/git-and-github/)
+### 🚀 Skills
+<div style="display: flex; gap: 10px;">
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</div>
 
-##
+---
 
-Thanks for visiting — happy coding! 🩷
+### 🌐 Onde me encontrar
+[![Itch.io](https://img.shields.io/badge/Itch.io-chaejiin-ff5c5c?style=flat&logo=itchdotio&logoColor=white)](https://itch.io/profile/chaejiin)  
+
+
+---
+
+✨ Obrigado pela visita 
